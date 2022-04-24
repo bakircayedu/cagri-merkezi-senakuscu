@@ -1,0 +1,2 @@
+C:\Users\senak\source\repos\odevv\odevv\obj\Debug\odevv.csprojAssemblyReference.cache
+C:\Users\senak\source\repos\odevv\odevv\obj\Debug\odevv.csproj.CoreCompileInputs.cache
